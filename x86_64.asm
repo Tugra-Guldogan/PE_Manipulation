@@ -1,4 +1,4 @@
-EXTRN VirtualProtect : PROJ
+EXTRN VirtualProtect : PROC
 
 .DATA
 dummy	DD ?
